@@ -3,16 +3,16 @@
     "name": "Masahiro Yamazaki",
     "label": "PG/SE beginner",
     "picture": "https://masa602.github.io/images/masa602.png",
-    "email": "molly@hawaii.edu",
+    "email": "m.xpe602@gmail.com",
     "phone": "808-333-4444",
     "website": "https://masa602.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
@@ -22,17 +22,17 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "masa602",
         "url": "http://linkedin.com/in/masa602"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
+        "username": "masa602",
         "url": "http://twitter.com/"
       },
       {
         "network": "instagram",
-        "username": "molly",
+        "username": "masa602",
         "url": "http://instagram.com/"
       }
     ]
@@ -83,13 +83,20 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
+      "name": "internet of things",
+      "keywords": [
+        "Arduino",
+        "TI MSP430"
+      ]
+    },
+    {
+      "name": "data mining",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "artificial intelligence",
+      "keywords": [
       ]
     }
   ],
