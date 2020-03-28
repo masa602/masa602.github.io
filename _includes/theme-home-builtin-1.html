@@ -31,11 +31,12 @@
           {% for interest in site.data.bio.interests %}
             {{ interest.name }}{% if forloop.last != true %}, {% endif %}
           {% endfor %}
+        </div>
+        <div class="description">
           Skills:
           {% for skills in site.data.bio.skills %}
             {{ skills.name }}{% if forloop.last != true %}, {% endif %}
           {% endfor %}
-
         </div>
       </div>
       <div class="center aligned extra content">
