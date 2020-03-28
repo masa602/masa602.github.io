@@ -41,6 +41,30 @@
           {% endfor %}
         </div>
       </div>
+      <div class="center aligned content">
+        <div class="description">
+          Education:
+          {% for education in site.data.bio.education %}
+            {{ education.name }}{% if forloop.last != true %}, {% endif %}
+          {% endfor %}
+        </div>
+      </div>
+      <div class="center aligned content">
+        <div class="description">
+          Work:
+          {% for work in site.data.bio.work %}
+            {{ work.name }}{% if forloop.last != true %}, {% endif %}
+          {% endfor %}
+        </div>
+      </div>
+      <div class="center aligned content">
+        <div class="description">
+          Activities:
+          {% for activities in site.data.bio.activities %}
+            {{ activities.name }}{% if forloop.last != true %}, {% endif %}
+          {% endfor %}
+        </div>
+      </div>
       <div class="center aligned extra content">
         {% include home-network-links.html %}
       </div>
