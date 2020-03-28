@@ -50,7 +50,6 @@
           {% endfor %}        
         </div>
         <div class="description">
-          Education:
           {% for education_detail in site.data.bio.education_detail %}
             {{ education_detail.name }}{% if forloop.last != true %}, {% endif %}
           {% endfor %}        
