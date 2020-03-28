@@ -45,8 +45,15 @@
       <div class="center aligned content">
         <div class="description">
           Education:
-          {{ site.data.bio.education.name1 }} n//
-          {{ site.data.bio.education.name2 }} n//          
+          {% for education in site.data.bio.education %}
+            {{ education.name }}{% if forloop.last != true %}, {% endif %}
+          {% endfor %}        
+        </div>
+        <div class="description">
+          Education:
+          {% for education_detail in site.data.bio.education_detail %}
+            {{ education_detail.name }}{% if forloop.last != true %}, {% endif %}
+          {% endfor %}        
         </div>
       </div>
       <div class="center aligned content">
