@@ -40,46 +40,12 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
+      "name": "internet of things"
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
+      "name": "VBA(2015-),PHP(2017-),C#(2018-) etc",
     }
   ],
   "education": [
@@ -94,7 +60,7 @@
   ],
   "work": [
     {
-      "name": "Logistics manager and (2010-2019) Visual Arts(Japanese postwar documentary film etc..) ",
+      "name": "Logistics(2010-), Contract development(2019-) ",
     }
   ],
   "volunteer": [
