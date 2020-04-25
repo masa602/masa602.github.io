@@ -4,7 +4,6 @@
     "jpname": "山崎 将和",
     "label1": "PG/SE beginner",
     "label2": "Art Scholar Psychology",
-    "label3": "Life in Yamaguchi from TOKYO",
     "picture": "https://masa602.github.io/images/masa602.png",
     "email": "m.xpe602@gmail.com",
     "phone": "",
@@ -47,7 +46,7 @@
   ],
   "skills": [
     {
-      "name": "VBA(2015-),PHP(2017-),C#(2018-) etc",
+      "name": "C#(2018-),PHP(2017-),VBA(2015-) etc",
     }
   ],
   "education": [
